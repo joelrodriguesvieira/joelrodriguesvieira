@@ -1,7 +1,7 @@
 ## Meu nome é Joel e seja bem-vindo ao meu repositório!
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 🤓 Futuro programador Full-Stack!
+- 🤓 Programador Trainee Full-Stack!
 - 😎 Em constante aprendizagem!
 
 <div style="display: inline_block"><br>
