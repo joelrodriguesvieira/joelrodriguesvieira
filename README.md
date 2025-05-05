@@ -1,4 +1,4 @@
-# 💫 Hello World! I'm Joel!:
+# 💫 Hello World! I'm Joel!
 👨🏼‍🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>👨🏼‍💻 Estudando programação desde 2022 <br>🛜 Atualmente focando em Desenvolvimento Web<br><br>
 
 # 💻 Tech Stack:
